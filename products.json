@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Mercedes Engine Oil Filter",
+        "price": 20.00,
+        "image": "Mercedes parts/Mercedes Engine Oil Filter.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Mercedes Brake Pads Set",
+        "price": 45.00,
+        "image": "Mercedes parts/Mercedes Brake Pads Set.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Mercedes Air Filter",
+        "price": 30.00,
+        "image": "Mercedes parts/Mercedes Air Filter.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Mercedes Spark Plugs (Set of 4)",
+        "price": 25.00,
+        "image": "Mercedes parts/Mercedes Spark Plugs (Set of 4).jpg"
+    },
+    {
+        "id": 5,
+        "name": "Mercedes Cabin Air Filter",
+        "price": 35.00,
+        "image": "Mercedes parts/Mercedes Cabin Air Filter.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Mercedes Transmission Fluid",
+        "price": 50.00,
+        "image": "Mercedes parts/Mercedes Transmission Fluid.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Mercedes Serpentine Belt",
+        "price": 15.00,
+        "image": "Mercedes parts/Mercedes Serpentine Belt.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Mercedes Fuel Filter",
+        "price": 18.00,
+        "image": "Mercedes parts/Mercedes Fuel Filter.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Mercedes Ignition Coil",
+        "price": 22.00,
+        "image": "Mercedes parts/Mercedes Ignition Coil.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Mercedes Water Pump",
+        "price": 40.00,
+        "image": "Mercedes parts/Mercedes Water Pump.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Mercedes Thermostat",
+        "price": 12.00,
+        "image": "Mercedes parts/Mercedes Thermostat.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Mercedes Oxygen Sensor",
+        "price": 28.00,
+        "image": "Mercedes parts/Mercedes Oxygen Sensor.jpg"
+    }
+]
